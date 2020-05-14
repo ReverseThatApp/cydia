@@ -1,0 +1,8 @@
+Origin: iSnakeTweak
+Label: iSnakeTweak
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iSnakeTweak - Tweak that turns your home screen to a game board and allows you to play legendary Snake game with your app icons on the jailbroken device. Tap on any screen and swipe to control your iSnake ^_^.
