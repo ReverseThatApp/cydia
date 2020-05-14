@@ -11,7 +11,7 @@ SHA1: ef871bedcb9151ee3f2b721decfe97caaea471da
 SHA256: 0d5b56db3cf3cda520dc3f59f6bd876c698a0e14bbba38502837ad4e9847f5ea
 Section: Tweaks
 Description: Tweak that turns your home screen to a game board and allows you to play legendary Snake game with your app icons on the jailbroken device. Tap on any screen and swipe to control your iSnake ^_^.
-Author: ReverseThatApp
 Name: iSnake
+Author: ReverseThatApp
 Depiction: https://ReverseThatApp.github.io/cydia/depictions/?p=com.rta.isnake
 
