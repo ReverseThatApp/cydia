@@ -12,17 +12,11 @@
 	</dependencies>
 	<shortDescription>Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>		
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Tap on any screen to play and swipe to control your iSnake. Enjoy (^_^)</description>
+			<description>Tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>
 			<image>iSnakePlaying.jpeg</image>
 		</screenshot>				
 	</screenshots>
@@ -31,9 +25,9 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>github</name>
+			<url>https://github.com/ReverseThatApp/cydia</url>
+			<iconclass>fa fa-github</iconclass>
 		</link>
 	</links>
 </package>
