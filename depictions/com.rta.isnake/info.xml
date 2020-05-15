@@ -12,12 +12,12 @@
 	</dependencies>
 	<shortDescription>Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
-		<description>Tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>		
+		<description>Double tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>		
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>
-			<image>iSnakePlaying.jpeg</image>
+			<description>Double tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>
+			<image>iSnakePlaying.gif</image>
 		</screenshot>				
 	</screenshots>
 	<changelog>		
