@@ -2,5 +2,7 @@
 	<changes>
 		<version>1.0.0-1</version>
 		<change>Initial Release</change>
+		<version>1.0.1-1</version>
+		<change>Fix iOS 13 not using SBRootIconListView but using SBIconListView</change>
 	</changes>
 </changelog>
