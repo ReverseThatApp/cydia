@@ -22,7 +22,7 @@
 		</screenshot>				
 	</screenshots>
 	<changelog>		
-		<change>Make iSnake to eat your home screen icons on any pages :P</change>
+		<change>Fix iOS 13 crashing and enhance not show alert when can't find page control.</change>
 	</changelog>
 	<links>
 		<link>
