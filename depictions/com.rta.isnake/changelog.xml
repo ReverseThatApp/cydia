@@ -7,4 +7,8 @@
 		<version>1.0.1-1</version>
 		<change>Fix iOS 13 not using SBRootIconListView but using SBIconListView</change>
 	</changes>
+	<changes>
+		<version>1.0.2-1</version>
+		<change>Fix iOS 13 crashing due to currentPageIndex return not correct number</change>
+	</changes>
 </changelog>
