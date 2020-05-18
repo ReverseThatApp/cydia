@@ -19,4 +19,8 @@
 		<version>1.0.4</version>
 		<change>Fix snake alignment issue due to conflict with other tweaks.</change>
 	</changes>
+	<changes>
+		<version>1.0.5</version>
+		<change>Disable grid and remove the snake body gaps, more space for your iSnake to hunt the food ^_^</change>
+	</changes>
 </changelog>
