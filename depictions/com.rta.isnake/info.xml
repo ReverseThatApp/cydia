@@ -1,7 +1,7 @@
 <package>
 	<id>com.rta.isnake</id>
 	<name>Full Package</name>
-	<version>1.0.5</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,7 +22,8 @@
 		</screenshot>				
 	</screenshots>
 	<changelog>		
-		<change>Disable grid and remove the snake body gaps, more space for your iSnake to hunt the food ^_^</change>
+		<change>Make iSnake more cute by decreasing app icon size and allow you have more space for iSnake to hunting food ^_^.</change>
+		<change>Now you can double tap again while playing iSnake to stop the game.</change>
 	</changelog>
 	<links>
 		<link>
