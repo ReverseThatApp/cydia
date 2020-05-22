@@ -1,5 +1,14 @@
 <changelog>	
 	<changes>
+		<version>2.0.0</version>
+		<change>- Supports 2 modes: Play with installed apps icon and classic mode <br/>
+		- Apps mode with small cute icon <br/>
+		- Classic mode with more foods and spaces
+		- Double tap to on home screens activate iSnake and double tap while playing to stop iSnake any times <br/>
+		- Support Preference Settings for in-game configuration		
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.6</version>
 		<change>Make iSnake more cute by decreasing app icon size and allow you have more space for iSnake to hunting food ^_^. Now you can double tap again while playing iSnake to stop the game.</change>
 	</changes>
