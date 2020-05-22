@@ -12,19 +12,34 @@
 	</dependencies>
 	<shortDescription>Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
-		<description>🐍iSnake is a small tweak that can entertain you on the go with quickly activation.</description>		
-		<description>🐍Double tap on any home screens to activate iSnake mode. To stop the game while playing, just double tap again.</description>		
-		<description><div class='thumbnail'><p>🐍Supports 2 modes: Apps mode and classic mode.</p><img src="./screenshots/menu.jpeg" /></div></description>		
-		<description><div class='thumbnail'><p>🐍Apps mode.</p><img src="./screenshots/app-mode.PNG" /></div></description>		
-		<description><div class='thumbnail'><p>🐍Classic mode.</p><img src="./screenshots/classic-mode.PNG" /></div></description>		
-		<description><div class='thumbnail'><p>🐍Support preference settings for some in-app configurations.</p><img src="./screenshots/preference.jpeg" /></div></description>		
-		<description>🐍This tweak still under development, more features will be released soon.</description>		
-		<description>🐍Please support by follow me on Twitter (@ReverseThatApp) and drop me a message for any feedback or issues so that I can improve iSnake in the next versions :) 🐍🐍</description>		
+		<description>iSnake is a small tweak that can entertain you on the go with quickly activation.</description>		
+		<description>Double tap on any home screens to activate iSnake mode. To stop the game while playing, just double tap again.</description>		
+		<description>Supports 2 modes: Apps mode and classic mode</description>				
+		<description>Support preference settings for some in-app configurations</description>		
+		<description>This tweak is still under development, more features will come soon.</description>		
+		<description>Please support by follow me on Twitter (@ReverseThatApp) and drop me a message for any feedback or issues so that I can improve iSnake in the next versions :) 🐍🐍</description>		
+		<description>All feedback is welcomed and appreciated and I sincerely appreciate that. Enjoy the game!! (^_^)</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Double tap on any home screens to activate iSnake mode then swipe to control your snake. Enjoy (^_^)</description>
-			<image>iSnakePlaying.gif</image>
+			<description>Double tap on any home screens to activate iSnake mode</description>
+			<image>iSnakePlaying.MP4</image>
+		</screenshot>
+		<screenshot>
+			<description>Supports 2 modes for now: Apps mode and classic mode</description>
+			<image>menu.jpeg</image>
+		</screenshot>				
+		<screenshot>
+			<description>Apps mode</description>
+			<image>app-mode.PNG</image>
+		</screenshot>				
+		<screenshot>
+			<description>Classic mode</description>
+			<image>classic-mode.PNG</image>
+		</screenshot>				
+		<screenshot>
+			<description>Preference settings</description>
+			<image>preference.PNG</image>
 		</screenshot>				
 	</screenshots>
 	<changelog>		
